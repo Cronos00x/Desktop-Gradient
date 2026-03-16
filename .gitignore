@@ -1,0 +1,14 @@
+# Ignore PyCharm hidden files
+.idea/
+
+# Ignore Python virtual environments
+.venv/
+venv/
+__pycache__/
+
+# Ignore your extracted icons folder
+Extracted/
+Extracted_Icons/
+
+# Ignore the final generated images
+*.png
